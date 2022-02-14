@@ -1,0 +1,57 @@
+
+.filter{
+    width: 40%;
+    height: auto;
+    align-items: center;
+    padding-top: 3%;
+    padding-left: 15%;
+    padding-bottom: 3%;
+    margin-left:20%;
+
+}
+table{
+    padding-left: 20% !important;
+    margin-left: 22% !important;
+    background-color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+h2{
+    color: black;
+    text-align: center;
+    margin-top: 3%;
+    font-family:fantasy;
+}
+
+.cts{
+    margin: 10px;
+}
+.navbar{
+    margin: 0px 0px 0px 0px;
+    font-weight: 500;
+}
+.home{
+    color: black ;
+    margin: 2%;
+    text-align: right;
+}
+.About{
+    color: black;
+    text-align: right;
+}
+
+.customer{
+    margin-left: 35%;
+    color: black;
+}
+
+.Helpline{
+    color: black;
+    margin-left:2%;
+    margin-right: 10px;
+}
+
+.fa{
+    margin: 1.3%;
+}
